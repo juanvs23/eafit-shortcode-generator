@@ -1,0 +1,29 @@
+div#eafit-shortcodes-content{
+    textarea {
+       width: 100%  !important;
+       border-radius: 5px;
+   }
+   .preview-content{
+    margin-bottom: 15px;
+   }
+   select {
+        width: 100%  !important;
+        border-radius: 5px;
+    }
+    .get-code-shortcode {
+        overflow: hidden;
+        code {
+            width: 100%;
+            display: block;
+            text-align: center;
+            padding: 5px 10px;
+            background-color: #2271b1;
+            color: white;
+        }
+    }
+    p.description{
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+}
